@@ -1,0 +1,32 @@
+body {
+	font-family: 'Dosis', sans-serif;
+	background-color: #FE5F55;
+	font-size: 2em;
+}
+h1 {
+	margin-top: 80px;
+	margin-bottom: 50px;
+}
+section {
+	background-color: #EEF5DB;
+	width: 80%
+}
+/** HEADER **/
+#header-nav {
+	background-color: #333745;
+	border:0;
+}
+.navbar-brand a {
+	font-family: 'Seymour One', sans-serif;
+	color: #C7EFCF;
+	font-size: 1.3em;
+}
+
+#nav-list a {
+	text-align: center;
+	
+}
+#nav-list a:hover {
+	background: #C7EFCF;
+}
+/******************/
